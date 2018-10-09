@@ -150,36 +150,36 @@ I want chinese version, so, I translate this page.
   - [Version Manager](#version-manager)
   - [Video](#video)
 
-## Guides
+## 指南
 *一个超棒的Swift相关的指南.* 
 
-### Newsletter
+### 通讯
 [back to top](#readme) 
 
-* [Indie iOS Focus Weekly](https://indieiosfocus.com) - 每周更新的iOS新闻.
-* [Swift Developments](https://andybargh.com/swiftdevelopments/) - A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.
-* [Swift Newsletter by Natasha the Robot (discontinued, look the archive)](https://www.natashatherobot.com) - Curated newsletter.
-* [Swift Weekly Brief](https://swiftweekly.github.io) - A multi author curated newsletter.
-* [WeeklyCocoa.News](https://weeklycocoa.news) - Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.
+* [Indie iOS Focus Weekly](https://indieiosfocus.com) - 每周更新的iOS通讯.
+* [Swift Developments](https://andybargh.com/swiftdevelopments/) - 一个每周更新的涉及人们感兴趣的设计和开发他们自己的iOS, watchOS 和 Apple TV apps的通讯.
+* [Swift Newsletter by Natasha the Robot (discontinued, look the archive)](https://www.natashatherobot.com) - 通讯.
+* [Swift Weekly Brief](https://swiftweekly.github.io) - 拥有多名作者的通讯.
+* [WeeklyCocoa.News](https://weeklycocoa.news) - 每周更新有关iOS、Swift、Objective-C、CocoaTouch和其他苹果开发技术相关的通讯.
 
-### Official Guides
+### 官方指南
 [back to top](#readme) 
 
-* [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/) - Official Swift API design guidelines.
-* [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for Swift beginners.
-* [Getting Started](https://swift.org/getting-started/) - Find information about the how to use the Swift programming language.
+* [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/) - Swift 官方 API 设计指南.
+* [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Apple 官方给 Swift 初学者的指南.
+* [Getting Started](https://swift.org/getting-started/) - 可以找到怎么去使用 Swift 语言编程的相关资料.
 
-### Style Guides
+### Style 指南
 [back to top](#readme) 
 
-* [LinkedIn](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Style Guide.
-* [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich guide, a must read.
+* [LinkedIn](https://github.com/linkedin/swift-style-guide) - LinkedIn's 官方 Style 指南.
+* [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich 指南, 一写要读.
 
-### Third party Guides
+### 第三指南
 [back to top](#readme) 
 
-* [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - A cool 30 days tutorial.
-* [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about the Swift language.
+* [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - 一个很 cool 的为期 30 天的辅导.
+* [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - 一个关于 Swift 语言的 playground.
 * [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - An organized list of essential Swift Language Topics.
 * [Developing iOS Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961) - Stanford course by Paul Hegarty.
 * [Hacking With Swift](https://www.hackingwithswift.com) - Complete training course that teaches app development through 30 hands-on projects, for free.
