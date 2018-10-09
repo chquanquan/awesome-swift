@@ -4,6 +4,8 @@
 
 PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
+I want chinese version, so, I translate this page.
+
  -->
 
 
@@ -149,12 +151,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
   - [Video](#video)
 
 ## Guides
-*An awesome list of Swift related guides.* 
+*一个超棒的Swift相关的指南.* 
 
 ### Newsletter
 [back to top](#readme) 
 
-* [Indie iOS Focus Weekly](https://indieiosfocus.com) - Curated weekly iOS newsletter.
+* [Indie iOS Focus Weekly](https://indieiosfocus.com) - 每周更新的iOS新闻.
 * [Swift Developments](https://andybargh.com/swiftdevelopments/) - A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.
 * [Swift Newsletter by Natasha the Robot (discontinued, look the archive)](https://www.natashatherobot.com) - Curated newsletter.
 * [Swift Weekly Brief](https://swiftweekly.github.io) - A multi author curated newsletter.
