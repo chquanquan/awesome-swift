@@ -180,63 +180,63 @@ I want chinese version, so, I translate this page.
 
 * [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - 一个很 cool 的为期 30 天的辅导.
 * [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - 一个关于 Swift 语言的 playground.
-* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - An organized list of essential Swift Language Topics.
-* [Developing iOS Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961) - Stanford course by Paul Hegarty.
-* [Hacking With Swift](https://www.hackingwithswift.com) - Complete training course that teaches app development through 30 hands-on projects, for free.
-* [Ray Wenderlich Tutorials, Videos, Podcasts and books](https://www.raywenderlich.com) - High quality programming tutorials.
-* [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
-* [Swift Web Weekly](http://swiftwebweekly.com) - A free, hand-picked list of the best links for Swift Web Developers, every Monday in your inbox.
-* [swift-tips](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
-* [SwiftDoc](https://swiftdoc.org/) - Auto-generated documentation.
-* [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide.
-* [SwiftTips](https://github.com/JohnSundell/SwiftTips) - A collection of useful tips by John Sundell.
-* [The Swift Web Developer](https://theswiftwebdeveloper.com) - A publication for Swift Web Developers.
-* [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
+* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - 一个有关重要 Swift 话题的列表.
+* [Developing iOS Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961) - 由 Paul Hegarty 主讲的斯坦福大学课程.
+* [Hacking With Swift](https://www.hackingwithswift.com) - 一个免费且完整的培训课程,通过30个实际项目来教导 app 开发.
+* [Ray Wenderlich Tutorials, Videos, Podcasts and books](https://www.raywenderlich.com) - 高质量编程教程.
+* [Swift Education](https://github.com/swifteducation) - 一个有关教导 Swift 和 app 开发的资料分享.
+* [Swift Web Weekly](http://swiftwebweekly.com) - 一个免费和经过精心挑选地有关 Swfit Web 开发者的链接列表,每星期一可在邮箱收到.
+* [swift-tips](https://github.com/vincent-pradeilles/swift-tips) - 由 Vincent Pradeilles 提供的一系列实用的 tips.
+* [SwiftDoc](https://swiftdoc.org/) - 自动生成的文档.
+* [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - 一个中文的 Swift 指南.
+* [SwiftTips](https://github.com/JohnSundell/SwiftTips) - 由 John Sundell 收集的实用 tips.
+* [The Swift Web Developer](https://theswiftwebdeveloper.com) - 一个由 Swift Web 开发人员出版的资料.
+* [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - 通过 Xcode playground 展示 Swift 4.0的新特性.
 
-## Boilerplates
+## 模版
 
-* [Swift 3 VIPER Module Template](https://github.com/Juanpe/Swift-VIPER-Module) - Xcode template for VIPER Architecture.
-* [Swift Module Template](https://github.com/fulldecent/swift4-module-template) - An opinionated starting point for awesome, reusable modules.
+* [Swift 3 VIPER Module Template](https://github.com/Juanpe/Swift-VIPER-Module) - Xcode 给 VIPER 构建的模版.
+* [Swift Module Template](https://github.com/fulldecent/swift4-module-template) - 一个给自己的,超棒,可重复利用的工程启动模版.
 
 ## REPL
 
-* [Online Swift Playground](http://online.swiftplayground.run) - Online Swift Playground.
+* [Online Swift Playground](http://online.swiftplayground.run) - 在线 Swift Playground.
 
-## Editor Support
-*Support for your favorite editors.* 
+## 编写支持
+*你最喜爱的编辑器支持.* 
 
 ### Emacs
 [back to top](#readme) 
 
-* [swift-mode](https://github.com/swift-emacs/swift-mode) - Emacs support, including partial flycheck error support.
+* [swift-mode](https://github.com/swift-emacs/swift-mode) - 支持 Emacs, 包括支持部分 flycheck 错误检查.
 
 ### Vim
 [back to top](#readme) 
 
-* [swift-vim](https://github.com/keith/swift.vim) - Vim runtime files.
-* [vim-polyglot](https://github.com/sheerun/vim-polyglot) - Language pack for vim that includes vim-swift.
+* [swift-vim](https://github.com/keith/swift.vim) - Vim 运行时文件.
+* [vim-polyglot](https://github.com/sheerun/vim-polyglot) - vim 语言包,包括 vim-swift.
 
 ## Benchmark
 
-* [xcprofiler](https://github.com/giginet/xcprofiler) - Command line utility to profile compilation time.
+* [xcprofiler](https://github.com/giginet/xcprofiler) - 优化编译时间的命令行工具.
 
-## Converters
+## 转换
 
-* [Swiftify](https://objectivec2swift.com) - Objective-C to Swift online code converter and Xcode extension.
+* [Swiftify](https://objectivec2swift.com) - 在线实时转化Objective-C 为 Swift, 还可以做为 Xcode 的扩展.
 
-## Other Awesome Lists
-*Check out apps on these projects:* 
-* [Awesome iOS Interview](https://github.com/dashvlas/awesome-ios-interview) - List of the questions that helps you to prepare for the interview.
-* [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
-* [example-ios-apps](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
-* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+## 其他超棒的列表
+*查看这些项目的 apps:* 
+* [Awesome iOS Interview](https://github.com/dashvlas/awesome-ios-interview) - 一个有助你准备面试的问题列表.
+* [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - 一个展示有关应用,软件,工具和 masOS 小东西的列表..
+* [example-ios-apps](https://github.com/jogendra/example-ios-apps) - 对于初学者和学习ios开发的人员以及需要任何示例应用程序或特性的ios开发人员来说，这是一个很棒的列表.
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - 开源iOS应用程序的协作列表.
 
-## Dependency Managers
-*Dependency manager software for Swift.* 
-* [Carthage](https://github.com/Carthage/Carthage) - A new dependency manager.
-* [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The most used dependency manager.
-* [Mint](https://github.com/yonaskolb/Mint) - A package manager that installs and runs Swift command line tools.
-* [swift-package-manager](https://github.com/apple/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
+## 依赖管理
+*Swift依赖管理工具.* 
+* [Carthage](https://github.com/Carthage/Carthage) - 一个全新的依赖管理工具.
+* [CocoaPods](https://github.com/CocoaPods/CocoaPods) - 最多人用的依赖管理工具.
+* [Mint](https://github.com/yonaskolb/Mint) - 一个安装和运行 Swift 的包管理工具.
+* [swift-package-manager](https://github.com/apple/swift-package-manager) - SPM 是 Swift 编程语言的包管理器.
 
 ## Patterns
 
