@@ -154,7 +154,7 @@ I want chinese version, so, I translate this page.
 *一个超棒的Swift相关的指南.* 
 
 ### 通讯
-[back to top](#readme) 
+[回到顶部](#readme) 
 
 * [Indie iOS Focus Weekly](https://indieiosfocus.com) - 每周更新的iOS通讯.
 * [Swift Developments](https://andybargh.com/swiftdevelopments/) - 一个每周更新的涉及人们感兴趣的设计和开发他们自己的iOS, watchOS 和 Apple TV apps的通讯.
@@ -163,20 +163,20 @@ I want chinese version, so, I translate this page.
 * [WeeklyCocoa.News](https://weeklycocoa.news) - 每周更新有关iOS、Swift、Objective-C、CocoaTouch和其他苹果开发技术相关的通讯.
 
 ### 官方指南
-[back to top](#readme) 
+[回到顶部](#readme) 
 
 * [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/) - Swift 官方 API 设计指南.
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Apple 官方给 Swift 初学者的指南.
 * [Getting Started](https://swift.org/getting-started/) - 可以找到怎么去使用 Swift 语言编程的相关资料.
 
 ### Style 指南
-[back to top](#readme) 
+[回到顶部](#readme) 
 
 * [LinkedIn](https://github.com/linkedin/swift-style-guide) - LinkedIn's 官方 Style 指南.
 * [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich 指南, 一写要读.
 
 ### 第三指南
-[back to top](#readme) 
+[回到顶部](#readme) 
 
 * [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - 一个很 cool 的为期 30 天的辅导.
 * [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - 一个关于 Swift 语言的 playground.
@@ -206,7 +206,7 @@ I want chinese version, so, I translate this page.
 *你最喜爱的编辑器支持.* 
 
 ### Emacs
-[back to top](#readme) 
+[回到顶部](#readme) 
 
 * [swift-mode](https://github.com/swift-emacs/swift-mode) - 支持 Emacs, 包括支持部分 flycheck 错误检查.
 
@@ -240,20 +240,22 @@ I want chinese version, so, I translate this page.
 
 ## Patterns
 
-* [App Architecture](https://github.com/objcio/app-architecture) - A sample Code of the App Architecture Book.
-* [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns.
+* [App Architecture](https://github.com/objcio/app-architecture) - 一个简化 APP 构建的 Book.
+* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) - 一个用 RxSwift 纯净构建的 iOS app 例子.
+* [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 设计模式.
+* [Viperit](https://github.com/ferranabello/Viperit) - 针对 iOS 平台的 Viper 框架.
 
 ## Misc
-*Miscellaneous Swift related projects* 
-* [Beak](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
-* [SwagGen](https://github.com/yonaskolb/SwagGen) :penguin: - A command line tool for generating a REST API from a Swagger spec based off Stencil templates.
-* [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the compiler.
-* [SwiftGen](https://github.com/SwiftGen/SwiftGen) - A suite of tools to auto-generate code for various assets of your project.
-* [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform framework projects from the command line.
-* [Toybox](https://github.com/giginet/Toybox) - Xcode Playground management made easy.
-* [Tuist](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
-* [XcodeGen](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
-* [xcodeproj](https://github.com/tuist/xcodeproj) - A library to read, update and write Xcode projects and workspaces.
+*各种各样与 Swift 相关的项目* 
+* [Beak](https://github.com/yonaskolb/Beak) - 一个为 Swift 脚本开发命令行窗口.
+* [SwagGen](https://github.com/yonaskolb/SwagGen) :penguin: - 一个命令行工具，用于基于Stencil模板,遵守Swagger规范生成REST API.
+* [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - 一个有关编译器的测试用例崩溃集合.
+* [SwiftGen](https://github.com/SwiftGen/SwiftGen) - 一个可以为你的项目种类资源文件(asset)自动生成代码的一套工具.
+* [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform framework projects from the command line 方便为工程构建跨平台库文件的命令行.
+* [Toybox](https://github.com/giginet/Toybox) - 让 Xcode 的 Playground 管理变得简单.
+* [Tuist](https://github.com/tuist/tuist) - 一个开源的命令行工具,应用于规模化创建,维护以及与你的 Xcode项目互动方面的事情.
+* [XcodeGen](https://github.com/yonaskolb/XcodeGen) - 用于从YAML文件和你的项目目录生成Xcode项目的工具.
+* [xcodeproj](https://github.com/tuist/xcodeproj) - 用于读取，更新和写入 Xcode 项目和 workspaces 的库.
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.* 
