@@ -1369,11 +1369,11 @@ I want chinese version, so, I translate this page.
 * [StackViewController](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 
-#### Switch
-[back to top](#readme) 
+#### 开关
+[回到顶部](#readme) 
 
-* [MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch) - A Customizable Switch UI for iOS, Inspired from Google's Material Design.
-* [Switch](https://github.com/T-Pham/Switch) - A switch control with full Interface Builder support.
+* [MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch) - 一个 iOS 可定制的开关控件,灵感来自谷歌的材料设计.
+* [Switch](https://github.com/T-Pham/Switch) - 一个开关控件,支持在视图构建界面使用.
 
 #### Tab
 [back to top](#readme) 
@@ -1536,18 +1536,18 @@ I want chinese version, so, I translate this page.
 * [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS (inspired by validator.js).
 * [Validator](https://github.com/adamwaite/Validator) - Drop in user input validation for your iOS apps.
 
-#### Phone Numbers
-[back to top](#readme) 
+#### 手机数字
+[回到顶部](#readme) 
 
-* [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - Framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
+* [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - 一个解析,格式化和验证国际手机号码的框架,灵感来自谷歌的libphonenumber.
 
-### Version Manager
-[back to top](#readme) 
+### 版本控制
+[回到顶部](#readme) 
 
-* [AppVersionMonitor](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
-* [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
-* [Version](https://github.com/mrackwitz/Version) - Version represents and compares semantic versions.
-* [Version Tracker Swift](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
+* [AppVersionMonitor](https://github.com/eure/AppVersionMonitor) - 更简单的iOS app 版本控制.
+* [Siren](https://github.com/ArtSabintsev/Siren) - 当您的 app 的新版本可用时,通知提示用户升级.
+* [Version](https://github.com/mrackwitz/Version) - 版本比较和版本展示.
+* [Version Tracker Swift](https://github.com/tbaranes/VersionTrackerSwift) - 跟踪你的iOS, OS X 和 tvOS app的版本.
 
 ### Video
 [back to top](#readme) 
@@ -1566,4 +1566,4 @@ I want chinese version, so, I translate this page.
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!!
+请首先快速游览一下 [contribution guidelines](.github/CONTRIBUTING.md). 如果你在这里看到某个包或项目已经不在维护或者已经不合适了.请提交Pull请求来优化这个列表,感谢你们. [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!!
