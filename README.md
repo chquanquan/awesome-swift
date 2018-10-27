@@ -258,60 +258,64 @@ I want chinese version, so, I translate this page.
 * [xcodeproj](https://github.com/tuist/xcodeproj) - 用于读取，更新和写入 Xcode 项目和 workspaces 的库.
 
 ## Libs
-*Here you can find a list of snippets and libs for your Swift projects.* 
+*在这里你能找到一系列可应用于你 Swift项目的代码片断和库.* 
 
 ### Accessibility
-[back to top](#readme) 
+[回到顶部](#readme) 
 
-* [Capable](https://github.com/chrs1885/Capable) - Track accessibility features to improve your app for people with certain disabilities.
+* [Capable](https://github.com/chrs1885/Capable) - 提升你app的可访问性,针对一些需要辅助功能的人.
 
 ### AI
-*Libs for AI based projects (Machine Learning, Neural Networks etc).* [back to top](#readme) 
+*有关AI的基础项目(机器学习,神经网络等).* 
+[回到顶部](#readme) 
 
-* [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
-* [MLKit](https://github.com/Somnibyte/MLKit) - A simple machine learning framework.
+* [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - 一些独特的Core ML模型.
+* [MLKit](https://github.com/Somnibyte/MLKit) - 一个简单的机器学习框架.
 
-### Algorithm
+### 算法
+[回到顶部](#readme) 
+
+* [Algorithm](https://github.com/CosmicMind/Algorithm) - 用于编写算法和概率模型的工具集.
+* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - 一个带有说明的算法和数据结构库.
+* [SwiftLCS](https://github.com/Frugghi/SwiftLCS) :penguin: - 最长公共子序列（LCS）算法的实现.
+
+### 分析
+*关联分析库用以跟踪用户对你app的使用* 
+[回到顶部](#readme) 
+
+* [Umbrella](https://github.com/devxoul/Umbrella) - 抽象分析层.
+
+### 动画
+*对动画有帮助的库* 
+[回到顶部](#readme) 
+
+* [Advance](https://github.com/timdonnelly/Advance) - 一个提供给iOS, tvOS和macOS的给力的动画库.
+* [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - 一个棒棒的有关布局和动画的二级集合.
+* [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - 易于读写的可链接动画.
+* [Ease](https://github.com/roberthein/Ease) - 轻易给任何东西添加动画.
+* [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - 一个把 UIView.animateWithDuration(_:, animations:...) 提升到新的高度的库.
+* [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - 基于自然块的核心动画框架.
+* [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini 是一个丰富地基于滚动的动画框架.
+* [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - IBAnimatable 可以在视图构建界面上为需要上架App Store的应用提供设计,原型界面,交互,导航,转场和动画.
+* [Interpolate](https://github.com/marmelroy/Interpolate) - Interpolation 框架为创建可交互的手势驱动动画而生.
+* [Kinieta](https://github.com/mmick66/kinieta) - 一个简单的iOS动画引擎，具有直观的API和高可读代码.
+* [Pastel](https://github.com/cruisediary/Pastel) - 动画像Instagram的渐变动画效果.
+* [Poi](https://github.com/HideakiTouhara/Poi) - Poi 可使你的卡片视图像tinder一样,使用方法跟tableView方法差不多.
+* [Presentation](https://github.com/hyperoslo/Presentation) - 一个帮助你制作教程,发布说明和动画页面的库.
+* [Pulsator](https://github.com/shu223/pulsator) - 一个 iOS 的脉冲动画.
+* [Sica](https://github.com/cats-oss/Sica) - 一个简单的核心动画界面,无论是按顺序还是一起执行都是类型安全的.
+* [Spring](https://github.com/MengTo/Spring) - 一个把iOS 动画简单化的库.
+* [SpriteKitEasingSwift](https://github.com/craiggrummitt/SpriteKitEasingSwift) - 使 SpriteKit 更易于使用.
+* [spruce-ios](https://github.com/willowtreeapps/spruce-ios) - 屏幕上的排列显示动画.
+* [Stellar](https://github.com/AugustRush/Stellar) - 一个物理动画库.
+* [SwiftyAnimate](https://github.com/rchatham/SwiftyAnimate) - 易于合成的动画.
+* [TheAnimation](https://github.com/marty-suzuki/TheAnimation) - CAAnimation封装,预防赋值错误的数值类型.
+* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - 只需一行代码就可以使你的UI变得鲜活生动.
+* [YapAnimator](https://github.com/yapstudios/YapAnimator) - 献给你的更快,更友好的基于物理的动画系统.
+
+### 接口
+*Quick libs to get access to third party API services* 
 [back to top](#readme) 
-
-* [Algorithm](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models.
-* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures, with explanations.
-* [SwiftLCS](https://github.com/Frugghi/SwiftLCS) :penguin: - implementation of the longest common subsequence (LCS) algorithm.
-
-### Analytics
-*Analytics related libraries to easily track your app usage* [back to top](#readme) 
-
-* [Umbrella](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
-
-### Animation
-*Libs to help with animation* [back to top](#readme) 
-
-* [Advance](https://github.com/timdonnelly/Advance) - A powerful animation framework for iOS, tvOS, and OS X.
-* [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
-* [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Easy to read and write chainable animations.
-* [Ease](https://github.com/roberthein/Ease) - Animate everything with Ease.
-* [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - A library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level.
-* [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - Natural Blocks Based Core Animation Framework.
-* [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
-* [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
-* [Interpolate](https://github.com/marmelroy/Interpolate) - Interpolation framework for creating interactive gesture-driven animations.
-* [Kinieta](https://github.com/mmick66/kinieta) - An simple Animation Engine for iOS with an Intuitive API and Readable Code.
-* [Pastel](https://github.com/cruisediary/Pastel) - Gradient animation effect like Instagram.
-* [Poi](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
-* [Presentation](https://github.com/hyperoslo/Presentation) - A library to help you to make tutorials, release notes and animated pages.
-* [Pulsator](https://github.com/shu223/pulsator) - Pulse animation for iOS.
-* [Sica](https://github.com/cats-oss/Sica) - Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.
-* [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations.
-* [SpriteKitEasingSwift](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
-* [spruce-ios](https://github.com/willowtreeapps/spruce-ios) - Choreograph animations on the screen.
-* [Stellar](https://github.com/AugustRush/Stellar) - A Physical animation library.
-* [SwiftyAnimate](https://github.com/rchatham/SwiftyAnimate) - Composable animations.
-* [TheAnimation](https://github.com/marty-suzuki/TheAnimation) - Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.
-* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
-* [YapAnimator](https://github.com/yapstudios/YapAnimator) - Your fast and friendly physics-based animation system.
-
-### API
-*Quick libs to get access to third party API services* [back to top](#readme) 
 
 * [GooglePlacesAutocomplete](https://github.com/watsonbox/ios_google_places_autocomplete) - Simple Google Places address entry for iOS.
 * [PXGoogleDirections](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
