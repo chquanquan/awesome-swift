@@ -717,87 +717,87 @@ I want chinese version, so, I translate this page.
 *Easy handle new 3D Touch / Force Touch feature thanks to these libs.* [back to top](#readme) 
 
 
-#### Bluetooth
-*Wrappers around CoreBluetooth* [back to top](#readme) 
+#### 蓝牙
+*围绕 CoreBluetooth 的封装* [回到顶部](#readme) 
 
-* [BlueCap](https://github.com/troystribling/BlueCap) - Wrapper around CoreBluetooth and much more.
-* [Bluejay](https://github.com/steamclock/bluejay) - A simple framework for building reliable Bluetooth LE apps.
-* [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
-* [RxBluetoothKit](https://github.com/polidea/RxBluetoothKit) - iOS & OSX Bluetooth library for RxSwift.
-* [SwiftyBluetooth](https://github.com/jordanebelanger/SwiftyBluetooth) - Simple and reliable closure based wrapper around CoreBluetooth.
+* [BlueCap](https://github.com/troystribling/BlueCap) - 围绕 CoreBluetooth 的封装,但不止这些.
+* [Bluejay](https://github.com/steamclock/bluejay) - 致力于构建可靠的LE蓝牙apps的框架.
+* [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - 让在iOS/maxOS之间的BLE设备通讯更简单.
+* [RxBluetoothKit](https://github.com/polidea/RxBluetoothKit) - 为RxSwift 开发的iOS & OSX蓝牙框架.
+* [SwiftyBluetooth](https://github.com/jordanebelanger/SwiftyBluetooth) - 围绕CoreBluetooth的简单和可靠的封装.
 
-#### Camera
-*Awesome camera libs* [back to top](#readme) 
+#### 相机
+*超棒的相机库* [回到顶部](#readme) 
 
-* [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - Camera view controller with custom image picker and image cropping.
-* [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
-* [NextLevel](https://github.com/NextLevel/NextLevel) - Rad Media Capture.
+* [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - 可自定义图片选择器和图片剪裁的相机view controller.
+* [Fusuma](https://github.com/ytakzk/Fusuma) - 像Instagram 的图片浏览器和相机特性.
+* [NextLevel](https://github.com/NextLevel/NextLevel) - Rad媒体捕获.
 
-##### Barcode
-*Barcode, QR-code, other code readers* [back to top](#readme) 
+##### 条形码
+*条形码, 二维码, 其他码的读取* [回到顶部](#readme) 
 
-* [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner view controller.
-* [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code.
-* [QRCodeReader.swift](https://github.com/yannickl/QRCodeReader.swift) - Simple QRCode reader.
+* [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - 一个简单和美丽的条形码扫描view controller.
+* [EFQRCode](https://github.com/EyreFree/EFQRCode) - 可更好地操作二维码库.
+* [QRCodeReader.swift](https://github.com/yannickl/QRCodeReader.swift) - 简单的二维码读取器.
 
-#### Haptic Feedback
-*Libraries that involve the use of Haptic Feedback* [back to top](#readme) 
+#### 触觉反馈
+*涉及触觉反馈的库* [回到顶部](#readme) 
 
-* [Haptica](https://github.com/efremidze/Haptica) - Easy Haptic Feedback Generator.
+* [Haptica](https://github.com/efremidze/Haptica) - 简单的触觉反馈生成器.
 
 #### iBeacon
-*Interested in using iBeacon in your Swift project? Here some interesting resources.* [back to top](#readme) 
+*对将iBeacon应用于你的Swift项目感兴趣,这里有一些有趣的资源.* [back to top](#readme) 
 
-* [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Location & Beacon Monitoring.
+* [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Location & Beacon 监视.
 
-#### Sensors
-*Manage your device sensors in a faster and easier way* [back to top](#readme) 
+#### 传感器
+*用一种更快更简单的方式来管理你手机的传感器* [回到顶部](#readme) 
 
-* [MotionKit](https://github.com/MHaroonBaig/MotionKit) - iOS device sensors wrapper.
+* [MotionKit](https://github.com/MHaroonBaig/MotionKit) - iOS设备传感器封装.
 
-### Images
-*An interesting list of image related libs..* [back to top](#readme) 
+### 图片
+*一个有趣的跟图片相关的库的列表.* [回到顶部](#readme) 
 
-* [Agrume](https://github.com/JanGorman/Agrume) - A lemony fresh iOS image viewer.
-* [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire.
-* [APNGKit](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
-* [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
-* [AXPhotoViewer](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
-* [BlockiesSwift](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
-* [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
-* [DTPhotoViewerController](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
-* [FacebookImagePicker](https://github.com/floriangbh/FacebookImagePicker) - Facebook album photo picker.
-* [FlexibleImage](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
-* [FMPhotoPicker](https://github.com/tribalmedia/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor
-* [gifu](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
-* [GPUImage 2](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
-* [GPUImage 3](https://github.com/BradLarson/GPUImage3) - GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
-* [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS with extra love for images.
-* [ImageDetect](https://github.com/Feghal/ImageDetect) - Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.
-* [ImageLoader](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS.
-* [ImageScout](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
-* [ImageViewer](https://github.com/Krisiacik/ImageViewer) - An image viewer à la Twitter.
-* [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
-* [Kingfisher](https://github.com/onevcat/Kingfisher) - Image download and caching.
-* [LetterAvatarKit](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
-* [Lightbox](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app.
-* [MapleBacon](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
-* [MCScratchImageView](https://github.com/Minecodecraft/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.
-* [Moa](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
-* [Nuke](https://github.com/kean/Nuke) - Advanced framework for loading, caching, processing, displaying and preheating images.
-* [PassportScanner](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
-* [Sharaku](https://github.com/makomori/Sharaku) - Image filtering UI library like Instagram.
-* [Snowflake](https://github.com/onmyway133/Snowflake) - Work with SVG.
-* [SwiftGen-Assets](https://github.com/SwiftGen/SwiftGen#assets-catalogs) - A tool to auto-generate `enums` for all your `UIImages` from your Assets Catalogs.
-* [SwiftGif](https://github.com/swiftgif/SwiftGif) - A small UIImage extension with GIF support.
-* [SwiftSVG](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
-* [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
-* [TinyCrayon](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) - A smart and easy-to-use image masking and cutout SDK for mobile apps.
-* [Toucan](https://github.com/gavinbunney/Toucan) - Image processing api.
-* [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
-* [Viewer](https://github.com/bakkenbaeck/Viewer) - Image viewer (or Lightbox) with support for local and remote videos and images.
-* [Vulcan](https://github.com/jinSasaki/Vulcan) - Multi image downloader with priority.
-* [ZImageCropper](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
+* [Agrume](https://github.com/JanGorman/Agrume) - 一个全新的的图片游览器.
+* [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - AlamofireImage是Alamofire框架的图片组件.
+* [APNGKit](https://github.com/onevcat/APNGKit) - 在iOS的高性能和轻量级的APNG格式图片展示框架..
+* [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) - 一个有多种预定义风格转场,也可以方便地自定义新风格转场的图片浏览视图.
+* [AXPhotoViewer](https://github.com/alexhillc/AXPhotoViewer) - iPhone / iPad照片库查看器，用于查看任意数量的图片.
+* [BlockiesSwift](https://github.com/Boilertalk/BlockiesSwift) - 独特的 块状识别/轮廓 图像生成器.
+* [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - 用触摸或基于运动的控制,显示球形或圆柱形全景图的库.
+* [DTPhotoViewerController](https://github.com/tungvoduc/DTPhotoViewerController) - 一个可以完全自定义的图片查看控制器无论是单张或多张图片,灵感来自Facebook的图片查看器.
+* [FacebookImagePicker](https://github.com/floriangbh/FacebookImagePicker) - Facebook相簿图片选择器.
+* [FlexibleImage](https://github.com/kawoou/FlexibleImage) - 一个简单的图片查看方式.
+* [FMPhotoPicker](https://github.com/tribalmedia/FMPhotoPicker) - 一个现代的、简单的、零依赖的照片选择器，并且有一个优雅和可定制的图像编辑器.
+* [gifu](https://github.com/kaishin/gifu) - 让iOS支持的高性能GIF.
+* [GPUImage 2](https://github.com/BradLarson/GPUImage2) - GPUImage 2 是一个BSD许可的Swift框架，使用GPU加速视频和图像处理.
+* [GPUImage 3](https://github.com/BradLarson/GPUImage3) - GPUImage 3 是一个BSD许可的Swift框架，使用GPU加速视频和图像处理,它是使用Metal框架的.
+* [HanekeSwift](https://github.com/Haneke/HanekeSwift) - 一个iOS的通用缓存框架,尤其是在图片缓存方面.
+* [ImageDetect](https://github.com/Feghal/ImageDetect) - 一个使用iOS 11 Vision 接口的人脸探测和剪裁器,也可用于二维码和图片中的文本的探测.
+* [ImageLoader](https://github.com/hirohisa/ImageLoaderSwift) - iOS的一个轻量和快速的图片加载器.
+* [ImageScout](https://github.com/kaishin/ImageScout) - [fastimage](https://pypi.org/project/fastimage/0.2.1/) 的实现,支持PNG, GIF和JPEG.
+* [ImageViewer](https://github.com/Krisiacik/ImageViewer) - 一个类似 Twitter的图片浏览器.
+* [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - 一个 UIImageView 允许你在其上添加多个label（多行文本支持），您可以用一根手指编辑、旋转、调整label的大小，然后在图片上呈现出来.
+* [Kingfisher](https://github.com/onevcat/Kingfisher) - 图片的下载和缓存.
+* [LetterAvatarKit](https://github.com/vpeschenkov/LetterAvatarKit) - 一个UIImage扩展可以生成基于字母的图象.
+* [Lightbox](https://github.com/hyperoslo/Lightbox) - 一个为你的iOS app准备的方便和易于使用的图片浏览器.
+* [MapleBacon](https://github.com/JanGorman/MapleBacon) - 图片下载和缓存库.
+* [MCScratchImageView](https://github.com/Minecodecraft/MCScratchImageView) - 一个自定义的ImageView，用于覆盖其他视图的表面，如刮卡，用户可以刮开覆盖物以查看下面的视图.
+* [Moa](https://github.com/evgenyneu/moa) - 一个image view的下载扩展,可应用于iOS, tvOS和macOS.
+* [Nuke](https://github.com/kean/Nuke) - 用于加载、缓存、处理、显示和预加载图片的先进框架。.
+* [PassportScanner](https://github.com/evermeer/PassportScanner) - 扫描护照的MRZ代码，并提取姓名、姓氏、护照号码，.
+* [Sharaku](https://github.com/makomori/Sharaku) - 类似 Instagram的图片滤镜UI库.
+* [Snowflake](https://github.com/onmyway133/Snowflake) - 使用 SVG.
+* [SwiftGen-Assets](https://github.com/SwiftGen/SwiftGen#assets-catalogs) - 为你所有的`UIImages`图片资源目录自动年成`enums`枚举.
+* [SwiftGif](https://github.com/swiftgif/SwiftGif) - 一个让UIImage支持GIF的小扩展.
+* [SwiftSVG](https://github.com/mchoe/SwiftSVG) - 一个单向的SVG解析器提供多个选项(String, NS/UIBezierPath, CAShapeLayer, 和 NS/UIView).
+* [SwiftyGif](https://github.com/kirualex/SwiftyGif) - 高性能GIF引擎.
+* [TinyCrayon](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) - 一个为移动app开发的,智能和易用的图片覆盖和剪切SDK.
+* [Toucan](https://github.com/gavinbunney/Toucan) - 图片处理 API.
+* [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes 风格的图片颜色拾取器.
+* [Viewer](https://github.com/bakkenbaeck/Viewer) - 支持本地和远程视频和图像的查看器（或灯箱）。.
+* [Vulcan](https://github.com/jinSasaki/Vulcan) - 具有优先级的图片下载器.
+* [ZImageCropper](https://github.com/ZaidPathan/ZImageCropper) - 以任意形状剪切图片.
 
 ### Key Value Coding
 *Libraries for key-value coding* [back to top](#readme) 
