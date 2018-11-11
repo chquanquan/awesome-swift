@@ -1549,19 +1549,19 @@ I want chinese version, so, I translate this page.
 * [Version](https://github.com/mrackwitz/Version) - 版本比较和版本展示.
 * [Version Tracker Swift](https://github.com/tbaranes/VersionTrackerSwift) - 跟踪你的iOS, OS X 和 tvOS app的版本.
 
-### Video
-[back to top](#readme) 
+### 视频
+[回到顶部](#readme) 
 
-* [BMPlayer](https://github.com/BrikerMan/BMPlayer) - A video player for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brigtness and seek by slide.
-* [Cabbage](https://github.com/VideoFlint/Cabbage) - A video composition framework build on top of AVFoundation.
-* [MMPlayerView](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
-* [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
-* [NextLevelSessionExporter](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
-* [Player](https://github.com/piemonte/Player) - iOS video player, simple drop in component for playing and streaming media.
-* [PlayerView](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
-* [PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
-* [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementating a video background.
-* [VGPlayer](https://github.com/VeinGuo/VGPlayer) - A simple iOS video player, support play local and network, background playback mode, automatic caching while playing.
+* [BMPlayer](https://github.com/BrikerMan/BMPlayer) - 一个基于AVPlayer的iOS视频播放器,支持横竖屏播放,支持声音和亮度调整,支持拖动调整进度.
+* [Cabbage](https://github.com/VideoFlint/Cabbage) - 一个基于 AVFoundation的视频合成框架.
+* [MMPlayerView](https://github.com/MillmanY/MMPlayerView) - 可以视图和转场上自定义的AVPlayer 层,效果像在Youtube 和 Facebook一样好.
+* [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - 在 iOS 上的强大的可完全自定义的媒体播放器.
+* [NextLevelSessionExporter](https://github.com/NextLevel/NextLevelSessionExporter) - 导出和转码媒体.
+* [Player](https://github.com/piemonte/Player) - iOS播放器,可简单地做为组件拖拽,可播放流媒体.
+* [PlayerView](https://github.com/davidlondono/PlayerView) - 像会用UIView一样使用视频播放器,可管理播放速度,可截图,通过代码回调播放状态.
+* [PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView) - 剪切视频.
+* [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - 使用一个UIView子类去实现一个视频背景.
+* [VGPlayer](https://github.com/VeinGuo/VGPlayer) - 一个简单的视频播放器,支持播放本地和网络视频,支持后台播放模式,播放时自动缓存.
 
 
 ### Contributing
