@@ -866,25 +866,25 @@ I want chinese version, so, I translate this page.
 
 * [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen.
 
-### Logging
-*Utilities for writing to and reading from the device log* [back to top](#readme) 
+### 日志
+*读写设备日志的实用工具* [回到顶部](#readme) 
 
-* [AEConsole](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
-* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - Configurable and extensible high-level logging API that is simple, lightweight and performant.
-* [Dotzu](https://github.com/remirobert/Dotzu) - Debbuger tool for iOS developer. Display logs, network request, device informations, crash logs while using the app.
-* [Duration](https://github.com/SwiftStudies/Duration) :penguin: - Lightweight logging library focused on reporting timings for operations.
-* [HeliumLogger](https://github.com/IBM-Swift/HeliumLogger) :penguin: - IBM's lightweight logging framework.
-* [Printer](https://github.com/hemangshah/printer) - A fancy logger for your next app.
-* [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS.
-* [QorumLogs](https://github.com/goktugyil/QorumLogs) - Logging Utility for Xcode & Google Docs.
-* [Rainbow](https://github.com/onevcat/Rainbow) :penguin: - Delightful console output.
-* [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) :penguin: - Multi-platform logging during development & release.
-* [TinyConsole](https://github.com/Cosmo/TinyConsole) - A tiny log console to display information while using your iOS app.
-* [TraceLog](https://github.com/tonystone/tracelog) :penguin: - Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.
-* [Watchdog](https://github.com/wojteklu/Watchdog) - Utility for logging excessive blocking on the main thread.
-* [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
-* [Willow](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library.
-* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
+* [AEConsole](https://github.com/tadija/AEConsole) - 可自定义UI的调试日志层,浮在iOS app的顶部.
+* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 可配置和可扩展的高级日志API，它简单、轻量级、性能好.
+* [Dotzu](https://github.com/remirobert/Dotzu) - 一个提供给iOS开发者的调试工具,展示app使用过程的日志,网络请求,设备信息,崩溃信息.
+* [Duration](https://github.com/SwiftStudies/Duration) :penguin: - 轻量级日志库侧重于报告操作的时序。.
+* [HeliumLogger](https://github.com/IBM-Swift/HeliumLogger) :penguin: - IBM的轻量级日志框架.
+* [Printer](https://github.com/hemangshah/printer) - 你下一个app的想要的日志记录器.
+* [Puree](https://github.com/cookpad/puree-ios) - iOS的日志收集器.
+* [QorumLogs](https://github.com/goktugyil/QorumLogs) - 可用于 Xcode 和谷歌文档的实用日志工具.
+* [Rainbow](https://github.com/onevcat/Rainbow) :penguin: - 轻量的控制台输出.
+* [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) :penguin: - 开发和发布都可用的多平台支持日志工具.
+* [TinyConsole](https://github.com/Cosmo/TinyConsole) - 一个小型控制台,显示app使用的信息.
+* [TraceLog](https://github.com/tonystone/tracelog) :penguin: - 超简单,作用就是输出日志,适用于 iOS macOS, Linux.
+* [Watchdog](https://github.com/wojteklu/Watchdog) - 监听主线程是否过度使用导致阻塞的日志工具.
+* [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - 在状态栏展示app当前运行的帧率(fps).
+* [Willow](https://github.com/Nike-Inc/Willow) - Willow 是一个强大且轻量的日志库.
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - 具有日志级别、时间戳和行号的全功能和可配置日志记录实用程序.
 
 ### Maps
 [back to top](#readme) 
