@@ -1283,37 +1283,37 @@ I want chinese version, so, I translate this page.
 * [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit for iOS developers.
 * [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.
 
-#### Form
-[back to top](#readme) 
+#### 表单
+[回到顶部](#readme) 
 
-* [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder.
-* [Former](https://github.com/ra1028/Former) - A fully customizable library for easy creating UITableView based form.
-* [SwiftForms](https://github.com/ortuman/SwiftForms) - Forms are now easy as 1-2-3.
-* [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
+* [Eureka](https://github.com/xmartlabs/Eureka) - 优雅的iOS表单构建者.
+* [Former](https://github.com/ra1028/Former) - 一个可以完全自定义的 UITableView基础表单构建库.
+* [SwiftForms](https://github.com/ortuman/SwiftForms) - 现在你构建表单就像写1-2-3一样简单.
+* [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - 可以验证数据的表单.
 
 #### HUD
-[back to top](#readme) 
+[回到顶部](#readme) 
 
-* [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD.
-* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
-* [KRProgressHUD](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
-* [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
+* [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - 轻量级加载HUD.
+* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - 带有渐变动画的加载条.
+* [KRProgressHUD](https://github.com/krimpedance/KRProgressHUD) - 一个漂亮和可定制的进度HUD.
+* [PKHUD](https://github.com/pkluz/PKHUD) - 可以替代苹果自带效果的HUD.
 
 #### Label
-[back to top](#readme) 
+[回到顶部](#readme) 
 
-* [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://).
-* [AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel) - A nice gradient animated label that make easy to add a shimmering effect to any view.
-* [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
-* [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
-* [GlitchLabel](https://github.com/kciter/GlitchLabel) - Glitching UILabel for iOS.
-* [IncrementableLabel](https://github.com/tbaranes/IncrementableLabel) - An UILabel subclass to (de)increment numbers in an UILabel.
-* [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
-* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel.
-* [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.
-* [SMIconLabel](https://github.com/anatoliyv/SMIconLabel) - UILabel with image placed from left or right.
-* [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background.
-* [TriLabelView](https://github.com/mukeshthawani/TriLabelView) - A triangle shaped corner label view for iOS.
+* [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel的替代,可识别和响应点击, 支持#,@符号和URLs.
+* [AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel) - 漂亮的带有渐变动画的label遮罩,可以方便地给任何view添加闪烁效果.
+* [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - 简单地倒计时UILabel,带有转变动画,和一些有用的方法.
+* [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - 文本输入控制组件内建有标题,所以你不必为第一个输入框单独添加标题.
+* [GlitchLabel](https://github.com/kciter/GlitchLabel) - 带有干扰效果的iOS UILabel.
+* [IncrementableLabel](https://github.com/tbaranes/IncrementableLabel) - UILabel的子类,可增/减数值.
+* [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - 一个UILabel子类, 自动更新，可以简单地显示已经过去了多少时间.
+* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - UILabel优美的变形效果.
+* [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - 用于显示数字的label，该数字可以使用称为数字吐温或数字变形的技术转换或动画化.
+* [SMIconLabel](https://github.com/anatoliyv/SMIconLabel) - 让UILabel 在左边或右边添加图片.
+* [Translucid](https://github.com/Ekhoo/Translucid) - 轻量级库将图像设置为文本背景.
+* [TriLabelView](https://github.com/mukeshthawani/TriLabelView) - 一个为iOS写的三角形的角落标签视图A.
 
 #### Menu
 [back to top](#readme) 
