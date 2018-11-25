@@ -1419,25 +1419,25 @@ I want chinese version, so, I translate this page.
 * [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - Transition animation to crumble view-controller into tiny pieces.
 * [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions.
 
-#### UICollectionView
-[back to top](#readme) 
+#### 集合视图(UICollectionView)
+[回到顶部](#readme) 
 
-* [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.
-* [Blueprints](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
-* [BouncyLayout](https://github.com/roberthein/BouncyLayout) - Collection view layout that makes your cells bounce.
-* [CardsLayout](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
-* [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
-* [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
-* [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) - UICollectionViewLayout to show slanted content.
-* [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
-* [FSPagerView](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
-* [GravitySlider](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
-* [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout which can move an item with drag and drop.
-* [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
-* [SimpleSource](https://github.com/Squarespace/simple-source ) - Easy and type-safe iOS table and collection views.
-* [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
-* [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
-* [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView completely written in Swift.
+* [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - 简单地在集合视图中集成分页和格式视图，使Instagram 探索在几分钟内完成.
+* [Blueprints](https://github.com/zenangst/Blueprints) - 用于在使用集合视图流布局时简化您的工作的框架.
+* [BouncyLayout](https://github.com/roberthein/BouncyLayout) - 集合视图布局使你的cell具体弹性.
+* [CardsLayout](https://github.com/filletofish/CardsLayout) - 漂亮的可自定义的卡片集合视图.
+* [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - 一个轻量级的集合视图布局,让cell在中间展示并且分页.
+* [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - 一个集合视图布局子类,以行的方式展示其元素, 就像App Store类似, 不需要列表视图和w集合视图的嵌套.
+* [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) - 集合视图布局展示倾斜的内容.
+* [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - 在多个集合图片中拖拽数据.
+* [FSPagerView](https://github.com/WenchaoD/FSPagerView) - 优雅的屏幕轮播库。它对制作横幅视图、产品展示、欢迎/指南页、屏幕/视图控制器幻灯片非常有帮助.
+* [GravitySlider](https://github.com/ApplikeySolutions/GravitySlider) - 漂亮的可替代标准集合视图流布局的库.
+* [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) - 一个可以拖拽来移动元素的视图集合布局.
+* [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS上的可自定义你书架上的书籍展示布局.
+* [SimpleSource](https://github.com/Squarespace/simple-source ) - 易用且类型安全的列表和集合视图.
+* [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - 可完全自定义的电子表格集合视图布局.
+* [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - 具有左、中、右对齐的标签的集合视图布局.
+* [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - 完全用Swift编写的轻量级动画流程布局.
 
 #### UITableView
 [back to top](#readme) 
