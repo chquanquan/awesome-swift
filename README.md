@@ -607,15 +607,15 @@ I want chinese version, so, I translate this page.
 * [Typhoon](https://github.com/appsquickly/Typhoon) - 依赖注入工具包。.
 * [Weaver](https://github.com/scribd/Weaver) - 声明性、易用性和安全性依赖注入框架.
 
-### Device
-*A collection of libs to recognize your device.* [back to top](#readme) 
+### 设备
+*一个识别你的设备的库集合.* [回到顶部](#readme) 
 
-* [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size.
-* [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
-* [DeviceKit](https://github.com/dennisweissmann/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
-* [Luminous](https://github.com/andrealufino/Luminous) - Get everything you need to know about the device.
-* [Thingy](https://github.com/bojan/Thingy) - A modern device detection and querying library.
-* [UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
+* [Device](https://github.com/Ekhoo/Device) - 检测当前设备和屏幕尺寸的轻量工具.
+* [Device.swift](https://github.com/schickling/Device.swift) - 超轻量级用来检测你的设备的库.
+* [DeviceKit](https://github.com/dennisweissmann/DeviceKit) - DeviceKit 是值类型的用来替代UIDevice.
+* [Luminous](https://github.com/andrealufino/Luminous) - 获取任何你想知道的关于设备的信息.
+* [Thingy](https://github.com/bojan/Thingy) - 一个先进的设备检测和查询库.
+* [UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) - UIDevice 的扩展,填充一些缺失的功能.
 
 ### Documentation
 *Generate documentation for Swift code* [back to top](#readme) 
