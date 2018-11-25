@@ -617,52 +617,52 @@ I want chinese version, so, I translate this page.
 * [Thingy](https://github.com/bojan/Thingy) - 一个先进的设备检测和查询库.
 * [UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) - UIDevice 的扩展,填充一些缺失的功能.
 
-### Documentation
-*Generate documentation for Swift code* [back to top](#readme) 
+### 文档
+*为Swift 代码创建文档* [back to top](#readme) 
 
-* [jazzy](https://github.com/realm/jazzy/) - Soulful docs.
-* [SourceDocs](https://github.com/eneko/SourceDocs/) - Generate Markdown reference documentation that lives with your code.
+* [jazzy](https://github.com/realm/jazzy/) - 高端的文档.
+* [SourceDocs](https://github.com/eneko/SourceDocs/) - 生成与你代码联动的Markdown引用文档.
 
-### Email
-[back to top](#readme) 
-
-
-### Embedded Systems
-*Build your embedded Linux projects on a RaspberryPi, BeagleBone, C.H.I.P. and other boards.* [back to top](#readme) 
-
-* [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) :penguin: - Interact with Linux GPIO/SPI/PWM on ARM.
-
-#### Peripherals
-*Interact with specific external peripherals.* [back to top](#readme) 
+### 电子邮件
+[回到顶部](#readme) 
 
 
-### Events
-*Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.* [back to top](#readme) 
+### 嵌入式系统
+*在RaspberryPi、BeagleBone、C.H.I.P.和其他board上构建嵌入式Linux项目.* [回到顶部](#readme) 
 
-* [Bond](https://github.com/DeclarativeHub/Bond) - Binding framework.
-* [BrightFutures](https://github.com/Thomvis/BrightFutures) - Promise and future lib.
-* [EasyFutures](https://github.com/DimaMishchenko/EasyFutures) - 🔗Futures & Promises. Easy to use. Highly combinable.
-* [EmitterKit](https://github.com/aleclarson/emitter-kit) - Implementation of event emitters and listeners.
-* [FutureKit](https://github.com/FutureKit/FutureKit) - Future/Promises Library.
-* [Katana](https://github.com/BendingSpoons/katana-swift) - Write apps a la React and Redux.
-* [NoticeObserveKit](https://github.com/marty-suzuki/NoticeObserveKit) - NoticeObserveKit is type-safe NotificationCenter wrapper that associates notice type with info type.
-* [Notificationz](https://github.com/SwiftKitz/Notificationz) - Helping you own `NSNotificationCenter` by providing a simple, customizable adapter.
-* [Observable](https://github.com/roberthein/Observable) - The easiest way to observe values.
-* [PMKVObserver](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing for Swift and Objective-C.
-* [PromiseKit](https://github.com/mxcl/PromiseKit) - Async promise programming lib.
-* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa (RAC) is a Cocoa framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values over time.
-* [ReactorKit](https://github.com/ReactorKit/ReactorKit) - A framework for reactive and unidirectional application architecture.
-* [ReSwift](https://github.com/ReSwift/ReSwift) - Unidirectional Data Flow.
-* [RxReduce](https://github.com/RxSwiftCommunity/RxReduce) - Reactive implementation of the state container pattern (like Redux). It is based on the simple concepts of state immutability and unidirectionnal data flow.
-* [RxSwift](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
-* [Signals](https://github.com/artman/Signals) - Replaces delegates and notifications.
-* [Snail](https://github.com/UrbanCompass/Snail) - An Observables framework.
-* [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
-* [Tempura](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
-* [Tomorrowland](https://github.com/kballard/Tomorrowland) - Lightweight Promises for Swift & Obj-C.
-* [TopicEventBus](https://github.com/mcmatan/topicEventBus) - Publish–subscribe design pattern implementation framework, with ability to publish events by topic.
-* [VueFlux](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
-* [When](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises.
+* [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) :penguin: - 在ARM上与Linux GPIO/SPI/PWM交互.
+
+#### 外设
+*与特定外设交互.* [回到顶部](#readme) 
+
+
+### 事件
+*替代通知中心(NSNotificationCenter), 健值观察(Key-Value-Observation), 或代理(delegation).* [回到顶部](#readme) 
+
+* [Bond](https://github.com/DeclarativeHub/Bond) - 绑定框架.
+* [BrightFutures](https://github.com/Thomvis/BrightFutures) - Promise 和 future 库.
+* [EasyFutures](https://github.com/DimaMishchenko/EasyFutures) - 🔗Futures & Promises. 易于使用. 高度可组合的.
+* [EmitterKit](https://github.com/aleclarson/emitter-kit) - 事件触发器和侦听器的实现.
+* [FutureKit](https://github.com/FutureKit/FutureKit) - Future/Promises 库.
+* [Katana](https://github.com/BendingSpoons/katana-swift) - 用 React 和 Redux的方式开发apps.
+* [NoticeObserveKit](https://github.com/marty-suzuki/NoticeObserveKit) - NoticeObserveKit是类型安全的NotificationCenter的封装，它将通知类型与信息类型相关联.
+* [Notificationz](https://github.com/SwiftKitz/Notificationz) - 通过提供一个简单的、可定制的适配器，帮助你掌控`NSNotificationCenter`.
+* [Observable](https://github.com/roberthein/Observable) - 值观察最简单的方法.
+* [PMKVObserver](https://github.com/postmates/PMKVObserver/) - 先进的线程安全/类型安全的值观察用于Swift 和Objective-C.
+* [PromiseKit](https://github.com/mxcl/PromiseKit) - 异步 promise 编程库.
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa (RAC) 是一个 Cocoa framework 灵感来自Functional Reactive Programming. 它提供了值更新而触发的事件流接口.
+* [ReactorKit](https://github.com/ReactorKit/ReactorKit) - 一种响应式的和单向的应用架构的框架.
+* [ReSwift](https://github.com/ReSwift/ReSwift) - 单向数据流.
+* [RxReduce](https://github.com/RxSwiftCommunity/RxReduce) - 状态容器模式（如ReDux）的响应式实现。它基于状态不变性和单向数据流的简单概念.
+* [RxSwift](https://github.com/ReactiveX/RxSwift) - 微软响应式扩展(RX), 应用 于Swift和iOS/OSX平台.
+* [Signals](https://github.com/artman/Signals) - 替换代理和通知.
+* [Snail](https://github.com/UrbanCompass/Snail) - 一个可用于观察的框架。.
+* [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - 为iOS优化的发布/订阅事件总线.
+* [Tempura](https://github.com/BendingSpoons/tempura-swift) - 一个着眼全局的iOS开发框架,灵感来自 Redux 和 MVVM.
+* [Tomorrowland](https://github.com/kballard/Tomorrowland) - Swift 和 Obj-C 的轻量级Promise.
+* [TopicEventBus](https://github.com/mcmatan/topicEventBus) - 发布-订阅设计模式实现框架，具有按主题发布事件的能力.
+* [VueFlux](https://github.com/ra1028/VueFlux) - 单向数据流状态管理架构, 受Vuex和Flux的启发。.
+* [When](https://github.com/vadymmarkov/When) - Promises和轻量级实现.
 
 ### Files
 [back to top](#readme) 
