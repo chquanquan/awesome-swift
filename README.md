@@ -408,7 +408,7 @@ I want chinese version, so, I translate this page.
 * [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 * [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
 
-### Colors
+### 颜色
 *Interesting snippets related to color management and utility.* [back to top](#readme) 
 
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, color framework for iOS.
@@ -594,18 +594,18 @@ I want chinese version, so, I translate this page.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions.
 * [TrueTime.swift](https://github.com/instacart/TrueTime.swift) - Get the true current time impervious to device clock time changes (NTP library).
 
-### Dependency Injection
-*Dependency injection libs* [back to top](#readme) 
+### 依赖注入
+*依赖注入库* [回到顶部](#readme) 
 
-* [Cleanse](https://github.com/square/Cleanse) - A Lightweight Dependency Injection Framework by Square.
-* [Corridor](https://github.com/symentis/Corridor) - A Coreader-like Dependency Injection μFramework.
-* [Deli](https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(DI).
-* [Dip](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
-* [DITranquillity](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
-* [Pure](https://github.com/devxoul/Pure) - Pure DI in Swift
-* [Swinject](https://github.com/Swinject/Swinject) - A dependency injection framework.
-* [Typhoon](https://github.com/appsquickly/Typhoon) - Dependency injection toolkit.
-* [Weaver](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
+* [Cleanse](https://github.com/square/Cleanse) -  一个来自Square 的轻量级依赖注入库.
+* [Corridor](https://github.com/symentis/Corridor) - 一种类核心依赖注入μFramework.
+* [Deli](https://github.com/kawoou/Deli) - Deli 一个易用的依赖注入库.
+* [Dip](https://github.com/AliSoftware/Dip) - 一个简单的依赖注入容器。.
+* [DITranquillity](https://github.com/ivlevAstef/DITranquillity/) - 稳定的依赖注入框架.
+* [Pure](https://github.com/devxoul/Pure) - Swift 纯净依赖注入
+* [Swinject](https://github.com/Swinject/Swinject) - 一个依赖注入框架.
+* [Typhoon](https://github.com/appsquickly/Typhoon) - 依赖注入工具包。.
+* [Weaver](https://github.com/scribd/Weaver) - 声明性、易用性和安全性依赖注入框架.
 
 ### Device
 *A collection of libs to recognize your device.* [back to top](#readme) 
