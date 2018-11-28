@@ -895,14 +895,14 @@ I want chinese version, so, I translate this page.
 * [LocoKit](https://github.com/sobri909/LocoKit) - A location and activity recording framework for iOS.
 * [MapViewPlus](https://github.com/okhanokbay/MapViewPlus) - Use any custom view as custom callout view for MKMapView with cool animations. Use any image as annotation view.
 
-### Math
-[back to top](#readme) 
+### 数学
+[回到顶部](#readme) 
 
-* [Arithmosophi](https://github.com/phimage/Arithmosophi) - Set of protocols for Arithmetic and Logical operations.
-* [BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
-* [DDMathParser](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
-* [SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
-* [Upsurge](https://github.com/alejandro-isaza/Upsurge) - Simple and fast matrix and vector math.
+* [Arithmosophi](https://github.com/phimage/Arithmosophi) - 算术和逻辑运算协议集.
+* [BigInt](https://github.com/attaswift/BigInt) - 任意精度算法.
+* [DDMathParser](https://github.com/davedelong/DDMathParser) - DDMathParser 使得解析String并将其作为数学表达式求值变得容易.
+* [SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics) - 统计计算函数集.
+* [Upsurge](https://github.com/alejandro-isaza/Upsurge) - 简单快速矩阵与向量数学.
 
 ### Natural Language Processing
 [back to top](#readme) 
