@@ -1114,17 +1114,17 @@ I want chinese version, so, I translate this page.
 * [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
 * [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
 
-### Thread
-*Threading, task-based or asynchronous programming, Grand Central Dispatch (GCD) wrapper* [back to top](#readme) 
+### 线程
+*线程、基于任务的或异步编程、大中央调度(GCD)封装* [回到顶部](#readme) 
 
-* [Async](https://github.com/duemunk/Async) - Syntactic sugar for Grand Central Dispatch.
-* [AwaitKit](https://github.com/yannickl/AwaitKit) - The ES7 Async/Await control flow.
-* [Chronos](https://github.com/comyar/Chronos-Swift) - Grand Central Dispatch Utilities.
-* [Each](https://github.com/dalu93/Each) - Each is a NSTimer bridge library.
-* [EKI](https://github.com/kodlian/Eki) - Make Grand Central Dispatch easy and fun to use (queue, task, group, timer and semaphore).
-* [GCDTimer](https://github.com/hemantasapkota/GCDTimer) - A well-tested GCD timer.
-* [Schedule](https://github.com/jianstm/Schedule) :penguin: - A missing lightweight task scheduler with an incredibly human-friendly syntax.
-* [SwiftyTimer](https://github.com/radex/SwiftyTimer) - API for NSTimer.
+* [Async](https://github.com/duemunk/Async) - 大中央调度（GCD）语法糖.
+* [AwaitKit](https://github.com/yannickl/AwaitKit) - ES7 异步/等待 控制流.
+* [Chronos](https://github.com/comyar/Chronos-Swift) - 大中央调度(GCD)工具.
+* [Each](https://github.com/dalu93/Each) - Each 是 NSTimer 桥接库.
+* [EKI](https://github.com/kodlian/Eki) - 使大中央调度(GCD)易于使用(队列、任务、组、定时器和信号量).
+* [GCDTimer](https://github.com/hemantasapkota/GCDTimer) - 一个经过很好测试的 GCD 定时器.
+* [Schedule](https://github.com/jianstm/Schedule) :penguin: - 一个你缺少的轻量级任务高度器, 拥有人性化的语法.
+* [SwiftyTimer](https://github.com/radex/SwiftyTimer) - 提供 NSTimer 的接口.
 
 ### UI
 *A collection of pre-packaged transitions & cool ui stuffs.* [back to top](#readme) 
