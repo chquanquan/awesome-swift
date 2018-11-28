@@ -1048,13 +1048,13 @@ I want chinese version, so, I translate this page.
 
 * [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 
-### Styling
-[back to top](#readme) 
+### 样式
+[回到顶部](#readme) 
 
-* [Ambience](https://github.com/tmergulhao/Ambience) - Brightness aware accessibility theme switching without coding.
-* [Stylist](https://github.com/yonaskolb/Stylist) - Define UI styles in a hot-loadable external yaml or json file.
-* [SwiftTheme](https://github.com/jiecao-fm/SwiftTheme) - Powerful theme/skin manager for iOS 8+.
-* [Themes](https://github.com/onmyway133/Themes) - Theme management.
+* [Ambience](https://github.com/tmergulhao/Ambience) - 无需编码的亮度感知主题切换.
+* [Stylist](https://github.com/yonaskolb/Stylist) - 在可热加载的外部yaml或json文件来定义UI样式.
+* [SwiftTheme](https://github.com/jiecao-fm/SwiftTheme) - iOS8+ 上的强大的主题和皮肤管理.
+* [Themes](https://github.com/onmyway133/Themes) - 主题管理.
 
 ### System
 [back to top](#readme) 
@@ -1078,12 +1078,12 @@ I want chinese version, so, I translate this page.
 * [UI Testing Cheat Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet) - Answers to common "How do I test this with UI Testing?" questions with a working example app.
 
 #### Mock
-[back to top](#readme) 
+[回到顶部](#readme) 
 
-* [Cuckoo](https://github.com/Brightify/Cuckoo) - First boilerplate-free mocking framework.
-* [Kakapo](https://github.com/devlucky/Kakapo) - Dynamically Mock server behaviors and responses.
-* [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease.
-* [Mockit](https://github.com/sabirvirtuoso/Mockit) - A simple mocking framework, inspired by the famous Mockito for Java.
+* [Cuckoo](https://github.com/Brightify/Cuckoo) - 第一个免费的mocking框架.
+* [Kakapo](https://github.com/devlucky/Kakapo) - 动态Mock服务器行为和响应.
+* [Mockingjay](https://github.com/kylef/Mockingjay) - 一个优雅的库，用于破解HTTP请求。.
+* [Mockit](https://github.com/sabirvirtuoso/Mockit) - 一个简单的mocking框架，灵感来自著名的 Java 框架 McCito.
 
 ### Text
 *A collection of text projects.* [back to top](#readme) 
