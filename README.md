@@ -344,17 +344,17 @@ I want chinese version, so, I translate this page.
 * [merchantkit](https://github.com/benjaminmayo/merchantkit) - A modern In-App Purchases management framework for iOS.
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases framework.
 
-### Audio
-*Libs to work with audio* [back to top](#readme) 
+### 音频
+*有关音频的库* [回到顶部](#readme) 
 
-* [AudioKit](https://github.com/audiokit/AudioKit) - Powerful audio synthesis, processing and analysis, without the steep learning curve.
-* [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
-* [AudioPlayerSwift](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
-* [Beethoven](https://github.com/vadymmarkov/Beethoven) - An audio processing library for pitch detection of musical signals.
-* [MusicKit](https://github.com/benzguo/MusicKit) - A framework for composing and transforming music.
-* [SwiftySound](https://github.com/adamcichy/SwiftySound) - Simple library that lets you play sounds with a single line of code.
-* [TuningFork](https://github.com/comyar/TuningFork) - A Simple Tuner for iOS.
-* [voice-overlay-ios](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
+* [AudioKit](https://github.com/audiokit/AudioKit) - 强大的音频合成、处理和分析库, 没有陡峭的学习曲线.
+* [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - AVPlayer的封装, 具有一些很酷的特性.
+* [AudioPlayerSwift](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer是一个简单的类，用于在iOS、OS X和tvOS应用程序中播放音频(提供基本的高级的用法).
+* [Beethoven](https://github.com/vadymmarkov/Beethoven) - 一种用于音乐信号基音检测的音频处理库.
+* [MusicKit](https://github.com/benzguo/MusicKit) - 音乐的合成和转换的框架.
+* [SwiftySound](https://github.com/adamcichy/SwiftySound) - 一个简单的库, 让你用一行代码播放声音.
+* [TuningFork](https://github.com/comyar/TuningFork) - 一个简单的iOS调谐器.
+* [voice-overlay-ios](https://github.com/algolia/voice-overlay-ios) - 在可定制UI中获取用户语音权限和把语音转为文本的覆盖层.
 
 ### Augmented Reality
 [back to top](#readme) 
