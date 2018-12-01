@@ -381,14 +381,14 @@ I want chinese version, so, I translate this page.
 * [Telegram Bot SDK](https://github.com/zmeyc/telegram-bot-swift) :penguin: - Unofficial SDK.
 * [Telegrammer](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
 
-### Cache
-[back to top](#readme) 
+### 缓存
+[回到顶部](#readme) 
 
-* [AwesomeCache](https://github.com/aschuch/AwesomeCache) - Manage cache easy.
-* [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.
-* [Cachyr](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS.
-* [Carlos](https://github.com/spring-media/Carlos) - A simple but flexible cache.
-* [EVURLCache](https://github.com/evermeer/EVURLCache) - If you want to make your app still works when it's offline.
+* [AwesomeCache](https://github.com/aschuch/AwesomeCache) - 轻松管理缓存.
+* [Cache](https://github.com/hyperoslo/Cache) - 就是缓存.
+* [Cachyr](https://github.com/YR/Cachyr) - 一个用于iOS、maOS和tvOS的轻量键-值 数据缓存.
+* [Carlos](https://github.com/spring-media/Carlos) - 一个简单且灵活的缓存.
+* [EVURLCache](https://github.com/evermeer/EVURLCache) - 如果你希望使你的app在离线时依然可用.
 
 ### Chart
 [back to top](#readme) 
@@ -409,21 +409,21 @@ I want chinese version, so, I translate this page.
 * [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
 
 ### 颜色
-*Interesting snippets related to color management and utility.* [back to top](#readme) 
+*与颜色管理相关的实用且有趣代码片段.* [回到顶部](#readme) 
 
-* [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, color framework for iOS.
-* [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
-* [Colorify](https://github.com/czater/Colorify) - Colorify - simple, yet powerful color library.
-* [DynamicColor](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors easily.
-* [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette.
-* [Gradients](https://github.com/cruisediary/Gradients) - A curated collection of splendid 180+ gradients.
-* [HexColor](https://github.com/artman/HexColor) - Define UIColors as Hex integers.
-* [Hue](https://github.com/hyperoslo/Hue) - Hue is the all-in-one coloring utility that you'll ever need.
-* [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
-* [SwiftGen-Colors](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate Swift `enums` for your `UIColor` constants.
-* [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
-* [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Hex to UIColor converter.
-* [UIGradient](https://github.com/dqhieu/UIGradient) - A simple and powerful library for using gradient layer, image, color.
+* [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon 是一个轻量级且功能强大的iOS颜色框架.
+* [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - 一个直观有趣的iOS颜色选择器.
+* [Colorify](https://github.com/czater/Colorify) - Colorify 是一个简单且功能强大的颜色库.
+* [DynamicColor](https://github.com/yannickl/DynamicColor) - 一个易于操作颜色的扩展.
+* [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) - 平滑UI调色板.
+* [Gradients](https://github.com/cruisediary/Gradients) - 精选超过180个渐变集合.
+* [HexColor](https://github.com/artman/HexColor) - 用哈希值定义颜色.
+* [Hue](https://github.com/hyperoslo/Hue) - Hue 是一个你值得拥有的颜色工具合集.
+* [PrettyColors](https://github.com/jdhealy/PrettyColors) - 带有样式和颜色的ANSI的Terminal转义码, 符合ECMA标准48.
+* [SwiftGen-Colors](https://github.com/SwiftGen/SwiftGen#uicolor) - 一个自动把你的 `UIColor` 常量自动生成Swift`enums`的工具.
+* [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) - 作为 UIColor的扩展处理HEX颜色.
+* [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - 把Hex 转化为 UIColor.
+* [UIGradient](https://github.com/dqhieu/UIGradient) - 一个简单而强大的库，用于创建渐变图层、图像、颜色.
 
 ### Command Line
 *Create command line applications.* [back to top](#readme) 
